@@ -1,0 +1,5 @@
+THIS PROJECT IS TO MAINTAIN THE CYBER MANAGEMENT SYSTEM USING C-PROGRAMMING
+
+FEATURES
+--------
+-->It has various features of C like Socket, Multithreading and more
